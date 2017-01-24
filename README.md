@@ -3,6 +3,8 @@ frontend-nanodegree-arcade-game
 
 Cross the street and take a splash!
 
+Visit this link to play the game on your browser https://namratabiswas.github.io/frogger-game/
+
 Instructions:
 
 -You have 3 lives to get across the street as many times as possible.
