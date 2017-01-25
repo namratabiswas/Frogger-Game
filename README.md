@@ -1,4 +1,4 @@
-frontend-nanodegree-arcade-game
+# Arcade Game
 ===============================
 
 Cross the street and take a splash!
